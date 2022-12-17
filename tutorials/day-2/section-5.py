@@ -36,3 +36,5 @@ print(f'Copied from list: {prices[:]}')
 
 places = ('Tashkent', 'Kokand', 'Asia', 'Europe', 'USA')
 print(f'Tuples: {places}')
+
+print(f'Converting tuple to list: {list(places)}')
